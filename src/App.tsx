@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import IntroVideo from "./components/IntroVideo";
 import { Navbar } from "./components/Navbar";
 import { FloatingNav } from "./components/FloatingNav";
@@ -58,6 +59,8 @@ export default function App() {
           </p>
         </div>
       </footer>
+
+      <SpeedInsights />
     </div>
   );
 }
