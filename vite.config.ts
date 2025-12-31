@@ -6,6 +6,8 @@ export default defineConfig({
   plugins: [react()],
   base: "/", // IMPORTANT FOR VERCEL
 
+  publicDir: "public",
+
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')

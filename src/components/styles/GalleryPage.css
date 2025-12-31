@@ -53,6 +53,7 @@
   font-weight: 800;
   background: linear-gradient(90deg, var(--d-text), var(--d-accent));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -206,7 +207,7 @@
 /******** LAYOUT ********/
 .gallery-container { background: var(--d-bg); color: var(--d-text); min-height: 100vh; }
 .gallery-navbar { display:flex; justify-content:space-between; align-items:center; padding:22px 80px; backdrop-filter:blur(12px); background:var(--d-nav-bg); border-bottom:1px solid var(--d-border); }
-.gallery-title { font-size:34px; font-weight:800; background:linear-gradient(90deg,var(--d-text),var(--d-accent)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+.gallery-title { font-size:34px; font-weight:800; background:linear-gradient(90deg,var(--d-text),var(--d-accent)); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; }
 
 /******** NAV LINKS ********/
 .gallery-links { display:flex; gap:45px; font-size:17px; font-weight:500; }

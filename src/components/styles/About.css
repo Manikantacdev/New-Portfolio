@@ -23,6 +23,7 @@
 .grad {
   background: linear-gradient(90deg, var(--accent), #9b4dff);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
@@ -133,6 +134,7 @@
   margin-bottom: 1.2rem;
   background: linear-gradient(90deg, #5704ff, #00c9a7);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
   letter-spacing: -0.3px;
 }

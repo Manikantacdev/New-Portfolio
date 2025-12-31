@@ -90,7 +90,7 @@
   color: var(--c-text);
 }
 
-.root:{
+.root {
   --c-text: #000000;
 }
 /* Skills Table */
@@ -207,6 +207,7 @@
   font-weight: 700;
   background: var(--skill-text-grad);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 

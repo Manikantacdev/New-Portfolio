@@ -61,6 +61,7 @@
 .gradient-text {
   background: linear-gradient(to right, #8e2de2, #4a00e0, #ff0080);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
@@ -356,6 +357,7 @@
 .grad {
   background: linear-gradient(90deg, var(--accent), #9b4dff);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
@@ -466,6 +468,7 @@
   margin-bottom: 1.2rem;
   background: linear-gradient(90deg, #5704ff, #00c9a7);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
   letter-spacing: -0.3px;
 }
@@ -637,6 +640,7 @@
   font-weight: 600;
   background: linear-gradient(90deg, var(--c-accent, #00e5ff), #a6ffef);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -663,6 +667,7 @@
 .counter-box h3 {
   background: linear-gradient(90deg, var(--c-accent2), #ffcf5c);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -905,6 +910,7 @@
   font-weight: 400;
   background: var(--cert-grad);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -1080,6 +1086,7 @@
   font-weight: 800;
   background: linear-gradient(90deg, var(--d-text), var(--d-accent));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -1865,6 +1872,7 @@ DARK THEME (example)
   letter-spacing: 2px;
   background: var(--resume-grad);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -2192,7 +2200,7 @@ DARK THEME (example)
   color: var(--c-text);
 }
 
-.root:{
+.root {
   --c-text: #000000;
 }
 /* Skills Table */
@@ -2309,6 +2317,7 @@ DARK THEME (example)
   font-weight: 700;
   background: var(--skill-text-grad);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -2426,6 +2435,7 @@ DARK THEME (example)
   font-weight: 700;
   background: linear-gradient(90deg, #8a2be2, #00eaff);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 4px;
 }
