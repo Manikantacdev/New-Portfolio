@@ -3,7 +3,6 @@
 Welcome to my personal portfolio website built with **React.js**, **Vite**, **Framer Motion**, **Tailwind CSS** and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **Full Stack Development, AI, ML, and Web Technologies**.
 
-🌐 **Live Website:** [manikanta-portfolio.netlify.app](https://manikanta-portfolio.netlify.app/)
 
 ---
 
@@ -67,7 +66,7 @@ npm install
 npm run dev
 ```
 
-Now open [http://localhost:5173](http://localhost:5173) in your browser 🚀
+Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 ---
 
