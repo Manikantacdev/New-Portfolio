@@ -66,7 +66,7 @@ npm install
 npm run dev
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+Now open [http://localhost:5173](http://localhost:5173) in your browser 🚀
 
 ---
 
@@ -81,7 +81,7 @@ If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 ## 🌟 Deployment
 
-Deployed seamlessly on **Netlify** for continuous integration and fast CDN delivery.
+Deployed seamlessly on **Vercel** and **Netlify** for continuous integration and fast CDN delivery.
 Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 ---

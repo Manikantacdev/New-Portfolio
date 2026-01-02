@@ -27,8 +27,8 @@ export function Home({ theme }: HeroProps) {
     { img: linkedinLogo, link: "https://www.linkedin.com/in/manikanta-gedda-developer-analyst/" },
     { img: gmailLogo, link: "mailto:manigedda731@gmail.com" },
     { img: whatsappLogo, link: "https://wa.me/+917093937645" },
-    { img: instagramLogo, link: "https://www.instagram.com/" },
-    { img: facebookLogo, link: "https://www.facebook.com/" },
+    { img: instagramLogo, link: "https://www.instagram.com/_manikanta_731_/" },
+    { img: facebookLogo, link: "https://www.facebook.com/gedda.mani.9" },
   ];
 
   const workLinks = [

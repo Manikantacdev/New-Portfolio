@@ -4,7 +4,7 @@ import "./styles/Certificates.css";
 
 const CERTS = {
   tech: [
-    { title: "DSA Problem Solving", org: "NPTEL", date: "2022", img: "/certs/NPTEL.png" },
+    { title: "DSA Problem Solving", org: "NPTEL", date: "2025", img: "/certs/NPTEL.png" },
     { title: "Hackathon", org: "Smart India Hackathon", date: "2025", img: "/certs/SIH.jpg" },
     { title: "MongoDB", org: "MongoDB University", date: "2025", img: "/certs/MongoDB.png" },
   ],

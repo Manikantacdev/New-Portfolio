@@ -7,10 +7,10 @@ const PROJECTS = [
   {
     title: "🧑‍💻 Freelancing Application",
     desc: "Full-stack freelancing platform connecting clients and freelancers with job posting, bidding, chat, and secure authentication.",
-    ss: "/Free_Lancing.png",
+    ss: "/freelancing.png",
     tech: ["React", "Node.js", "Express", "MongoDB"],
-    live: "#",
-    code: "https://github.com/Manikantacdev/Free-Lancing-Website",
+    live: "https://freelancem.vercel.app/",
+    code: "https://github.com/Manikantacdev/FreelanceM",
   },
   {
     title: "📈 Employee Performance Prediction",
