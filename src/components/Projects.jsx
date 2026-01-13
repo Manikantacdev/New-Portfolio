@@ -45,12 +45,12 @@ const PROJECTS = [
     code: "https://github.com/Manikantacdev/Machine-Learning-Models/tree/master/Food%20Restaurant%20Review",
   },
   {
-    title: "🎓 AcademicGuard – Intelligent Academic Integrity Platform | Full-Stack AI",
-    desc: "Developed a full-stack academic integrity platform using semantic plagiarism detection and AI-generated text analysis. Implemented a dual-engine system with FAISS, Sentence-Transformers, and RoBERTa, and built secure multi-user dashboards with React (TypeScript) and FastAPI for explainable reporting and analytics.",
-    ss: "/academicguard.png",
+    title: "🎓 AcademicGuard – Intelligent Academic Integrity Platform",
+    desc: "Developed a full-stack academic integrity platform using semantic plagiarism detection and AI-generated text analysis.",
+    ss: "/Plagiarism_Detection.png",
     tech: ["React (TypeScript)", "FastAPI", "FAISS", "Sentence-Transformers", "RoBERTa", "AI", "Full-Stack"],
-    live: "#",
-    code: "#",
+    live: "https://academic-plagiarism-detection.vercel.app/",
+    code: "https://github.com/Manikantacdev/academic-plagiarism-detection",
   },
 ];
 
