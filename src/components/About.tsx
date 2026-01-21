@@ -100,7 +100,7 @@ export function About() {
 
   /* ===== COUNTERS ===== */
   const counters = [
-    { icon: Code, label: "Projects Completed", value: 4 },
+    { icon: Code, label: "Projects Completed", value: 7 },
     { icon: Timer, label: "Years Experience in MERN", value: 1 },
     { icon: Cpu, label: "Technologies Mastered", value: 6 },
     { icon: Trophy, label: "LeetCode Solved", value: 100 },

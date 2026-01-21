@@ -5,6 +5,14 @@ import "./styles/projects.css";
 
 const PROJECTS = [
   {
+    title: "🎥 Video Conferencing Application",
+    desc: "Real-time video conferencing platform with peer-to-peer video calls, screen sharing, chat, and secure user authentication for seamless online meetings.",
+    ss: "/smart-meet.png",
+    tech: ["React", "Node.js", "Express", "WebRTC", "Socket.io"],
+    live: "https://video-conference-application-nine.vercel.app/",
+    code: "https://github.com/Manikantacdev/Video-Conference-application",
+  },
+  {
     title: "🧑‍💻 Freelancing Application",
     desc: "Full-stack freelancing platform connecting clients and freelancers with job posting, bidding, chat, and secure authentication.",
     ss: "/freelancing.png",
@@ -76,11 +84,11 @@ export default function Projects() {
       >
         {/* Title Animation */}
         <motion.h2
-                  initial={{ x: -200, opacity: 0 }}
-                  whileInView={{ x: 0, opacity: 1 }}
-                  viewport={{ once: true }}
-                  className="projects-title"
-                >
+          initial={{ x: -200, opacity: 0 }}
+          whileInView={{ x: 0, opacity: 1 }}
+          viewport={{ once: true }}
+          className="projects-title"
+        >
           🚀My <span className="proj">Projects</span>
         </motion.h2>
 
